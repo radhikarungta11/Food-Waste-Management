@@ -2,7 +2,7 @@ Username : Password
 _____________________
 System Admin
 1)sysadmin: sysadmin  
-______________________
+______________________  
 Restaurant Admin    
 1)dba: dba  
 2)doba: doba        
