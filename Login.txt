@@ -4,7 +4,7 @@ System Admin
 1)sysadmin: sysadmin  
 ______________________
 Restaurant Admin    
-1)dba: dba
+1)dba: dba  
 2)doba: doba        
 3)snya: snya
 4)ddnya: ddnya  
