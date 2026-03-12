@@ -19,7 +19,7 @@ Restaurant Manager
 3)snym : snym
 4)ddnym :ddnym
 5)pbm: pbm
-6)phbm: phbm
+6)phbm: phbm 
 7)abpm: abpm
 8)uhm: uhm
 _________________________
