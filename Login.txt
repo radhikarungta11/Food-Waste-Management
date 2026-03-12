@@ -10,7 +10,7 @@ Restaurant Admin
 4)ddnya: ddnya      
 5)pba: pba  
 6)phba: phba
-7)abpnua: abpnua
+7)abpnua: abpnua  
 8)upba: upba
 ________________________
 Restaurant Manager
