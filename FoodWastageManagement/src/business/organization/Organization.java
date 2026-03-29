@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package business.organization; 
-
+ 
 import business.employee.EmployeeDirectory;
 import business.role.Role;
 import business.userAccount.UserAccountDirectory;
